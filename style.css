@@ -1,1 +1,23 @@
-/* Use Selectors and attributes for the HTML design */
+h1#title1 {
+    color: green;
+    text-align: center;
+    font-size: 90px;
+    font-family: fantasy;
+    text-shadow:4px 4px 10px rgb(59, 63, 54);
+    letter-spacing: 20px;
+    font-variant: initial;
+    color: darkolivegreen;
+}
+h2{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+    text-shadow: 2px 2px 8px rgb(53, 77, 53);
+}
+h1#title{
+    color: darkmagenta;
+}
+h2#subtitle{
+    color: blue;
+}
