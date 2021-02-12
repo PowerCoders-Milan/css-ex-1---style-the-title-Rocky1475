@@ -1,12 +1,6 @@
-h1#title1 {
+.h1 {
     color: green;
     text-align: center;
-    font-size: 90px;
-    font-family: fantasy;
-    text-shadow:4px 4px 10px rgb(59, 63, 54);
-    letter-spacing: 20px;
-    font-variant: initial;
-    color: darkolivegreen;
 }
 h2{
     color: red;
