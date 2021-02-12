@@ -1,17 +1,15 @@
-.h1 {
-    color: green;
+.div1 {
+    color: #6a41b8;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h2{
-    color: red;
-    text-align: center;
-    font-size: 60px;
-    font-family: cursive;
-    text-shadow: 2px 2px 8px rgb(53, 77, 53);
+#head1 {
+    text-decoration: line-through;
+    font-size: 99px;
+    letter-spacing: 25px;
+    text-shadow: 6px 6px 8px rgb(100, 99, 99);
 }
-h1#title{
-    color: darkmagenta;
-}
-h2#subtitle{
-    color: blue;
-}
+    #subtitle {
+    text-decoration: underline;
+    letter-spacing: 15px;
+    }
