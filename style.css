@@ -1,1 +1,15 @@
-/* Use Selectors and attributes for the HTML design */
+.div1 {
+    color: #6a41b8;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#head1 {
+    text-decoration: line-through;
+    font-size: 100px;
+    letter-spacing: 25px;
+    text-shadow: 6px 6px 8px rgb(100, 99, 99);
+}
+    #subtitle {
+    text-decoration: underline;
+    letter-spacing: 15px;
+    }
